@@ -1,0 +1,111 @@
+{
+  "item": {
+    "id": "com.lhy.watch.supermario",
+    "restype": "quick_app",
+    "name": "超级马里奥",
+    "description": "经典横版闯关游戏的手环适配版。跨越砖块、水管与地下世界，收集金币、躲避敌人，挑战32个关卡。支持关卡选择和冒险进度保存。",
+    "preview": [
+      "media/74828.png",
+      "media/74825.png",
+      "media/74826.png",
+      "media/74827.png"
+    ],
+    "icon": "media/74829.png",
+    "cover": "media/74830.jpg",
+    "author": [
+      {
+        "name": "18501",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官网链接",
+      "url": "https://xbgw.sxb.asia",
+      "icon": "globe"
+    },
+    {
+      "title": "激活同步器",
+      "url": "https://xbjh.sxb.asia",
+      "icon": "download-simple"
+    },
+    {
+      "title": "QQ群",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=29%2FBuxTYbdThorSJ%2FXilYI2UY13hvfmLTdMcyakcXfcwlfxrqGJgxSqOFx1BORmo&busi_data=eyJncm91cENvZGUiOiIyMDc4MDM2NTYiLCJ0b2tlbiI6IlZqams4R1dqZUZNSURDUkVndW80YzlQNThNNkg0S0N5RGdYTFc1azlrZlg4dDQwZE5IWG5Jb0dPTGpWVUN6VzgiLCJ1aW4iOiIyOTU1MzU3OTk4In0%3D&data=HD4lIB7e7NkrKoWjwsBNvmvPUxQN_cx14X-zMnzgO-mFnSD_PJXdJm1icC922WMvyEAX-dM0iaLNyQEi6OVs6g&svctype=4&tempid=h5_group_info",
+      "icon": "wechat-logo"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.5.5",
+      "file_name": "downloads/超级马里奥-1.5.5-红米手表-JSC.rpk",
+      "versionCode": 155
+    },
+    "xmrw6": {
+      "version": "1.5.5",
+      "file_name": "downloads/超级马里奥-1.5.5-红米手表-JSC.rpk",
+      "versionCode": 155
+    },
+    "xmb10": {
+      "version": "1.5.5",
+      "file_name": "downloads/超级马里奥-1.5.5-小米手环9-10通用-JSC.rpk",
+      "versionCode": 155
+    },
+    "xmrw5xring": {
+      "version": "1.5.5",
+      "file_name": "downloads/超级马里奥-1.5.5-红米手表-JSC.rpk",
+      "versionCode": 155
+    },
+    "xmb10p": {
+      "version": "1.5.5",
+      "file_name": "downloads/超级马里奥-1.5.5-小米手环9Pro-JSC.rpk",
+      "versionCode": 155
+    },
+    "xmb10nfc": {
+      "version": "1.5.5",
+      "file_name": "downloads/超级马里奥-1.5.5-小米手环9-10通用-JSC.rpk",
+      "versionCode": 155
+    },
+    "xmb11nfc": {
+      "version": "1.5.5",
+      "file_name": "downloads/超级马里奥-1.5.5-小米手环9-10通用-JSC.rpk",
+      "versionCode": 155
+    },
+    "xmb11": {
+      "version": "1.5.5",
+      "file_name": "downloads/超级马里奥-1.5.5-小米手环9-10通用-JSC.rpk",
+      "versionCode": 155
+    },
+    "xmb9": {
+      "version": "1.5.5",
+      "file_name": "downloads/超级马里奥-1.5.5-小米手环9-10通用-JSC.rpk",
+      "versionCode": 155
+    },
+    "xmb9p": {
+      "version": "1.5.5",
+      "file_name": "downloads/超级马里奥-1.5.5-小米手环9Pro-JSC.rpk",
+      "versionCode": 155
+    },
+    "xmws4": {
+      "version": "1.5.5",
+      "file_name": "downloads/超级马里奥-1.5.5-小米WatchS系列-JSC.rpk",
+      "versionCode": 155
+    },
+    "xmws5": {
+      "version": "1.5.5",
+      "file_name": "downloads/超级马里奥-1.5.5-小米WatchS系列-JSC.rpk",
+      "versionCode": 155
+    }
+  },
+  "ext": {
+    "bundledResources": {
+      "recommended": [
+        {
+          "type": "plugin",
+          "id": "雪碧同步器"
+        }
+      ]
+    }
+  }
+}
