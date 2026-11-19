@@ -5,13 +5,15 @@
     "name": "超级马里奥",
     "description": "经典横版闯关游戏的手环适配版。跨越砖块、水管与地下世界，收集金币、躲避敌人，挑战32个关卡。支持关卡选择和冒险进度保存。",
     "preview": [
-      "media/74828.png",
-      "media/74825.png",
-      "media/74826.png",
-      "media/74827.png"
+      "media/74893.png",
+      "media/74888.png",
+      "media/74889.png",
+      "media/74890.png",
+      "media/74891.png",
+      "media/74892.png"
     ],
     "icon": "media/74829.png",
-    "cover": "media/74830.jpg",
+    "cover": "media/74886.jpg",
     "author": [
       {
         "name": "18501",
